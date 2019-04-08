@@ -28,7 +28,8 @@ namespace tshirts.Controllers
       {
         return found;
       }
-      return BadRequest("{\"error\": \"not found\"}");
+      return BadRequest("error");
+      // return BadRequest("{\"error\": \"not found\"}");
     }
 
     [HttpPost]
@@ -50,7 +51,7 @@ namespace tshirts.Controllers
       return newData;
     }
 
-    [HttpDelete("{id")]
+    [HttpDelete("{id}")]
     public ActionResult Delete(int id)
     {
       Tshirt oldData = Inventory.Find(t => t.Id == id);
