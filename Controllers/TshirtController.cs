@@ -21,7 +21,7 @@ namespace tshirts.Controllers
 
     //Get by Id
     [HttpGet("{id}")]
-    public ActionResult<List<Tshirt>> GetById(int id)
+    public ActionResult<Tshirt> GetById(int id)
     {
       Tshirt found = Inventory.Find(t => t.Id == id);
       if (found != null)

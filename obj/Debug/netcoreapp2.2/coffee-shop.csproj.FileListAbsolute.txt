@@ -1,0 +1,14 @@
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.csprojAssemblyReference.cache
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.csproj.CoreCompileInputs.cache
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.RazorAssemblyInfo.cache
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.RazorAssemblyInfo.cs
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.AssemblyInfoInputs.cache
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.AssemblyInfo.cs
+C:\source\codeworks\spring19\coffee-shop\bin\Debug\netcoreapp2.2\coffee-shop.deps.json
+C:\source\codeworks\spring19\coffee-shop\bin\Debug\netcoreapp2.2\coffee-shop.runtimeconfig.json
+C:\source\codeworks\spring19\coffee-shop\bin\Debug\netcoreapp2.2\coffee-shop.runtimeconfig.dev.json
+c:\source\codeworks\spring19\coffee-shop\bin\Debug\netcoreapp2.2\coffee-shop.dll
+c:\source\codeworks\spring19\coffee-shop\bin\Debug\netcoreapp2.2\coffee-shop.pdb
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.RazorTargetAssemblyInfo.cache
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.dll
+c:\source\codeworks\spring19\coffee-shop\obj\Debug\netcoreapp2.2\coffee-shop.pdb
